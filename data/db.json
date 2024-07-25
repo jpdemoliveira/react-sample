@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Post Test",
+      "body": "Consectetur duis magna dolor ad sit pariatur tempor reprehenderit incididunt in consectetur. Eu ea duis nulla duis quis eiusmod ipsum id deserunt nulla ad mollit. Enim veniam ullamco deserunt dolor. Ipsum amet ea ea excepteur et ex sint qui do id. Cupidatat pariatur consectetur fugiat amet sunt ea ut fugiat esse eiusmod eu amet cupidatat et. Est excepteur in culpa voluptate incididunt. Eu et qui irure do. Velit est velit aliqua commodo pariatur reprehenderit cupidatat elit elit nostrud. Nulla nisi adipisicing nulla consequat aliqua enim esse nostrud tempor eiusmod et. Aliqua dolore excepteur aute consequat sit anim eiusmod pariatur cillum aliquip.",
+      "author": "JP",
+      "id": "1"
+    },
+    {
+      "title": "Post 2 Test",
+      "body": "Fugiat Lorem tempor nulla culpa in incididunt. Magna aliqua consequat quis dolor dolor nulla enim nostrud nisi. Lorem enim velit ut non sunt laborum magna sit officia et irure tempor. Qui laborum irure consectetur ut fugiat et voluptate voluptate. Qui elit ad commodo culpa nostrud ipsum magna dolore incididunt aute eu sint nostrud.",
+      "author": "JPMO",
+      "id": "2"
+    }
+  ]
+}
